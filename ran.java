@@ -9,6 +9,8 @@ public class ran {
         //ewfbfdhds
         //bcds
         //public account
+
+        //nbcb
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Welcome to the Number Guessing Game!");
