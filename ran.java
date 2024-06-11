@@ -6,6 +6,7 @@ public class ran {
         int remaining = 10;
         int total = 0;
             //yogesh Hitnalli
+        //ewfbfdhds
         //public account
         Scanner scanner = new Scanner(System.in);
 
