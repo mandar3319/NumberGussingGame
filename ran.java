@@ -7,6 +7,7 @@ public class ran {
         int total = 0;
             //yogesh Hitnalli
         //ewfbfdhds
+        //bcds
         //public account
         Scanner scanner = new Scanner(System.in);
 
