@@ -5,7 +5,7 @@ public class ran {
         int target = (int) (Math.random() * 100) + 1;
         int remaining = 10;
         int total = 0;
-
+            //yogesh Hitnalli
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Welcome to the Number Guessing Game!");
