@@ -6,6 +6,7 @@ public class ran {
         int remaining = 10;
         int total = 0;
             //yogesh Hitnalli
+        //public account
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Welcome to the Number Guessing Game!");
